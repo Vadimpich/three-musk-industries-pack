@@ -1,0 +1,13 @@
+name = "Three Musk Industries - Craftoria"
+author = "TeamAOE; Three Musk Industries customizations"
+version = "1.37.0-tmi.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b06abc4524d0d1e128df02e68658f53350d00de8756135325a112339514ad8b3"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.249"

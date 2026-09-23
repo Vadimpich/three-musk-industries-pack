@@ -1,0 +1,8 @@
+name = "Baritone"
+filename = "baritone-standalone-neoforge-1.11.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/cabaletta/baritone/releases/download/v1.11.3/baritone-standalone-neoforge-1.11.3.jar"
+hash-format = "sha256"
+hash = "a6b3bb3df1a1bdead9ca86035c8778c379718aaafeac90d1a6348bdcbf93159d"

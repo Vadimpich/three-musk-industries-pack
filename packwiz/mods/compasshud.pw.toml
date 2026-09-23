@@ -1,0 +1,8 @@
+name = "CompassHUD"
+filename = "compasshud-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Vadimpich/three-musk-industries-pack/main/downloads/compasshud-1.0.1.jar"
+hash-format = "sha256"
+hash = "5fa0ac0cd3f385be657748acc2a5fe802035032403fda7729916fb26d85f3a15"
