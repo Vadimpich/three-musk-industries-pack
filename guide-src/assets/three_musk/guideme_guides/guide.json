@@ -1,0 +1,14 @@
+{
+  "default_language": "ru_ru",
+  "item_settings": {
+    "display_name": {
+      "text": "Справочник Three Musk Industries"
+    },
+    "tooltip_lines": [
+      {
+        "text": "Памятка для друзей: команды, моды и полезные механики",
+        "color": "gray"
+      }
+    ]
+  }
+}
